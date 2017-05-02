@@ -1,0 +1,12 @@
+Package: RAirbnb
+Title: What the Package Does (one line, title case)
+Version: 0.0.0.9000
+Authors@R: 'Guangming Lang <gmlang@cabaceo.com> [aut, cre]'
+Description: What the package does (one paragraph).
+Depends: R (>= 3.3.2)
+License: GNU General Public License v3.0
+Encoding: UTF-8
+LazyData: true
+Imports: httr,
+    dplyr
+RoxygenNote: 6.0.1
